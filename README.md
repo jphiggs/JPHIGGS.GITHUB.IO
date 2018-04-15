@@ -28,9 +28,8 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jphiggs/JPHIGGS.GITHUB.IO/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Hello World! and My name is JPHIGGS.
+** This is a test for bold text**
 
 ### Support or Contact
 
